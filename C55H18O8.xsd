@@ -167,7 +167,8 @@
 		<Bond ID="109" Connects="121,108" Type="Double"/>
 		<Atom3d ID="123" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="27.9637070870696,4.00603919672833,-1.89644408126566" Connections="124,125,126" Components="C"/>
 		<Atom3d ID="127" Name="C2" UserID="1" DisplayStyle="Ball and Stick" XYZ="30.4237050707369,4.00818595049363,-1.89644408126566" Connections="128,129,130" Components="C"/>
-		<Atom3d ID="132" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="29.1930863644712,4.71725282264913,-1.89644408126566" Connections="124,129,100" Components="C"/>
+		<Atom3d ID="131" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="29.1930863644712,4.71725282264913,-1.89644408126566" Connections="124,129,100" Components="C"/>
+		<Atom3d ID="132" Name="C4" UserID="2" DisplayStyle="Ball and Stick" XYZ="31.6530843481383,4.71939957641443,-1.89644408126566" Connections="128,104,133" Components="C"/>
 		<Bond ID="124" UserID="2" Connects="123,131"/>
 		<Bond ID="128" UserID="2" Connects="127,132" Type="Aromatic"/>
 		<Bond ID="129" UserID="2" Connects="127,131" Type="Aromatic"/>
